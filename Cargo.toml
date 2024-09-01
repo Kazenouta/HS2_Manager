@@ -1,0 +1,10 @@
+[package]
+name = "HS2_Manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.5.4"
+zip = "0.6"
+xml-rs = "0.8"
+png = "0.17.5"
