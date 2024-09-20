@@ -1,0 +1,6 @@
+dir_root = "/mnt/e/Games/HS2"
+dir_mods = "/mnt/e/Games/HS2/mods"
+dir_mymods = "/mnt/e/Games/HS2/mods/MyMods"
+dir_mods_raw = "/mnt/d/Games/人物卡扩展/AI少女/mods"
+path_zipmod_info = "./data/zipmod_info_list.csv"
+path_zipmod_info_raw = "./data/zipmod_info_list_raw.csv"
